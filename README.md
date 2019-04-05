@@ -1,2 +1,6 @@
 # glowing-waffle
-Linear regression: will eventually move to multivariable...eventually.
+Logistic regression.
+
+Written in Octave.
+
+Viewable in either Octave or Matlab.
